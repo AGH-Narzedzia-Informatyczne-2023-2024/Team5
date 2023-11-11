@@ -19,3 +19,14 @@ Przykładowa gra - Zagraj sobie
 	* GIMP
 	* Paint
 
+## Interfejs
+**Po uruchomieniu gry, graczowi pojawi się menu główne**:
+
+* W lewym górnym rogu będzie szary przycisk po którego kliknięciu, gracz zostanie przeniesiony do ustawień gry,
+* Na środku menu głównego znajdzie się duży zielony przycisk rozpoczynający grę.
+ 
+Głównym naszym celem jest dobranie przyjemnego tła, które nie będzie rozpraszało gracza. Po porażce, wyświetli się jego wynik jaki uzyskał w danej próbie oraz jego najlepszy wynik. 
+
+**Oprócz tego, do wyboru będą opcje**:
+* Do ponownego rozpoczęcia gry,
+* drugi do przejścia do menu głównego.
