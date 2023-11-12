@@ -37,3 +37,9 @@ Pierwszym  i **najważniejszym** celem do osiągnięcia podczas tworzenia naszej
 
 _Możliwość rozwoju gracza_ jest zapewniana poprzez wzrost trudności rozgrywki wraz z czasem w grze. Najważniejsza i jedyna akcja jaka zostanie przedstawiona graczowi to skok postaci. Prostota rozgrywki zapewni dostępność gry dla każdego.
 
+## Monetyzacja
+
+Rozważamy dwa rodzaje monetyzacji naszego projektu:
+* **Reklamy**
+* **Dodatkowa płatna zawartość**
+Oba sposoby mają wiele zalet, jednak prawdopodobnym wyborem będzie opcja druga. 
