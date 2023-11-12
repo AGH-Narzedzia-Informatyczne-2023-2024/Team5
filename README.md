@@ -33,5 +33,7 @@ Głównym naszym celem jest dobranie przyjemnego tła, które nie będzie rozpra
 
 ## Funkcjonalność
 
-Pierwszym najważniejszym celem do osiągnięcia podczas tworzenia naszej gry jest zapewnienie przyjemności i rozrywki graczowi. Świadomość uczciwej rozgrywki jest równie ważna. Możliwość rozwoju gracza jest zapewniana poprzez wzrost trudności rozgrywki wraz z czasem w grze. Najważniejsza i jedyna akcja jaka zostanie przedstawiona graczowi to skok postaci. Prostota rozgrywki zapewni dostępność gry dla każdego.
+Pierwszym  i **najważniejszym** celem do osiągnięcia podczas tworzenia naszej gry jest zapewnienie przyjemności i rozrywki graczowi. Świadomość uczciwej rozgrywki jest równie ważna. 
+
+_Możliwość rozwoju gracza_ jest zapewniana poprzez wzrost trudności rozgrywki wraz z czasem w grze. Najważniejsza i jedyna akcja jaka zostanie przedstawiona graczowi to skok postaci. Prostota rozgrywki zapewni dostępność gry dla każdego.
 
