@@ -1,1 +1,1 @@
-print("ipsum lorem")
+print("konflikt1")
