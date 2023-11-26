@@ -1,7 +1,7 @@
 def fun(n):
     return n*n + 3*n + 4
 
-print("Podaj ilość liczb")
+print("Podaj ilość")
 n = int(input())
 
 for i in range(0, n):
