@@ -1,1 +1,1 @@
-print("konflikt1")
+print("konflikt2")
