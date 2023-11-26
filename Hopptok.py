@@ -6,4 +6,4 @@ from pygame.locals import *
   
 # Deklaracja zmiennych okna 
 window_width = 1000
-window_height = 500
+window_height = 300
